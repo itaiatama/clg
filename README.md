@@ -8,5 +8,6 @@ Simple tool to make cool lines effect on image.
 
 ### Quick start
 ``` console
+make
 ./cli -i img/anime.jpg -o img/anime_processed.png
 ```
