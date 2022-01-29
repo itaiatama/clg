@@ -6,8 +6,8 @@ Simple tool to make cool lines effect on image.
 ![alt text](img/anime_processed.png?raw=true "to")
 
 
-### Quick start
+#### Quick start
 ``` console
-make
-./cli -i img/anime.jpg -o img/anime_processed.png
+$ make
+$ ./cli -i img/anime.jpg -o img/anime_processed.png
 ```
