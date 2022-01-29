@@ -1,10 +1,16 @@
 # Cool Line Generator
 Simple tool to make cool lines effect on image.
 
-![alt text](img/anime_processed.png?raw=true "To this")
+## FROM
+![alt text](img/anime.jpg?raw=true "from")
 
+## TO
+![alt text](img/anime_processed.png?raw=true "to")
+
+
+## Quick start
 ``` console
 
-    ./cli -i [INPUT_IMAGE_PATH] -o [OUTPUT_IMAGE_PATH]
+    ./cli -i img/anime.jpg -o img/anime_processed.png
 
 ```
