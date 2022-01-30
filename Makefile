@@ -1,4 +1,4 @@
-EXEC   = cli
+EXEC   = clg
 CFLAGS = -Wall -Wextra -std=c11 -pedantic
 SRC    = $(wildcard src/*.c)
 LIBS   = -lm
